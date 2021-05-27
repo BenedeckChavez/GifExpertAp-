@@ -25,6 +25,8 @@ input {
   margin-bottom: 10px;
   margin-right: 10px;
   overflow: hidden;
+  height: 350px;
+  width: 300px;
 }
 
 .card p {
@@ -33,5 +35,6 @@ input {
 }
 
 .card img {
-  max-height: 200px;
+  height: 300px;
+  width: 300px;
 }
